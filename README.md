@@ -1,7 +1,7 @@
 -- [[ 👑 DmNx Ji ULTIMATE PRO UPDATE 💀 ]] --
 local CoreGui = game:GetService("CoreGui")
 local ScreenGui = Instance.new("ScreenGui", CoreGui)
-ScreenGui.Name = "DemonKing_Final_SoundFix"
+ScreenGui.Name = "DmNx Ji Spam (UPGRADED)"
 
 local function Chat(m)
     pcall(function()
@@ -17,11 +17,11 @@ end
 -- [[ NEW SOUND ID & EXECUTE TEXT ]] --
 task.spawn(function()
     local s = Instance.new("Sound", CoreGui)
-    s.SoundId = "rbxassetid://71262389650741" 
-    s.Volume = 10 
+    s.SoundId = "rbxassetid://259816079" 
+    s.Volume = 50
     s:Play()
     
-    local execMsg = "👑?SCRIPT BY DmNx Ji..💀@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@😰😰DmNx Ji SPAM LOADED.."
+    local execMsg = "👑?SCRIPT BY DmNx Ji..💀@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@😰😰Ruk Bkl.."
     task.wait(0.2)
     Chat(execMsg)
     task.wait(5)
@@ -57,7 +57,7 @@ end
 CreateTxt("👑 DmNx Spam UPDATED HUB 💀", 30)
 CreateTxt([[--------------------------
 MADE BY DmNx Ji
-KING OF ENDLESS AURA
+DmNx Empire 👑🔥
 --------------------------]], 80)
 
 local function Inp(p)
@@ -106,7 +106,7 @@ local msgs = {
     "👑? SCRIPT BY DmNx Ji. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ [TARGET] TMKX MAIN KURKURE >",
     "👑? SCRIPT BY DmNx Ji. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ [TARGET] TMKX MAIN DREAM >",
     "👑? SCRIPT BY DmNx Ji. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ [TARGET] BOL DmNx Ji ON TOP.. 😈",
-    "👑? SCRIPT BY DmNx Ji. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ [TARGET] SERVER KI AISI TESI BY DÈMØN.. 🔥"
+    "👑? SCRIPT BY DmNx Ji. @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ [TARGET] SERVER KI AISI TESI BY DmNx Ji.. 🔥"
 }
 
 getgenv().On = false
